@@ -1,0 +1,2 @@
+# stock-gold
+newbie
